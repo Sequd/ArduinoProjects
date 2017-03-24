@@ -27,3 +27,13 @@ void FadeUpDown(){
      }
    }
 }
+
+  //
+  //  // --- test PIR
+  //  if (analogRead(pir_pin) > 120) {
+  //    analogWrite(led_pin, 250);
+  //  }
+  //  else {
+  //    analogWrite(led_pin, 0);
+  //  }
+  //  delay(fade);
